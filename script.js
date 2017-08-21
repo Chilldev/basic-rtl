@@ -8,7 +8,7 @@ var translations = {
 		'right':'Right',
 		'center':'Center',
 		'switcher':'Switch',
-		'title' :'RTL TEST',
+		'title' :'LEFT TO RIGHT',
 	},
 	'AR' : {
 		'left':'يمين',
